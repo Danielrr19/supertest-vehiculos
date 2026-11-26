@@ -1,0 +1,9 @@
+# Paquetes instalados: se regeneran con "npm install"
+node_modules/
+
+# Variables secretas
+.env
+
+# Archivos de registro y de tu editor
+*.log
+.vscode/
